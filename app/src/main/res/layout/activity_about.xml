@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_forest_gradient"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:paddingBottom="28dp">
+
+        <!-- Toolbar -->
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbar_about"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="@drawable/toolbar_forest"
+            android:title="About"
+            android:titleTextColor="@android:color/white"
+            android:popupTheme="@style/ThemeOverlay.Material3.ActionBar"/>
+
+        <!-- App Icon -->
+        <ImageView
+            android:layout_width="325dp"
+            android:layout_height="188dp"
+            android:layout_marginTop="24dp"
+            android:layout_marginBottom="20dp"
+            android:src="@mipmap/ic_launcher" />
+
+        <!-- Info Card -->
+
+        <!-- GitHub Text -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="24dp"
+            android:layout_marginRight="24dp"
+            android:background="@drawable/panel_rounded"
+            android:orientation="vertical"
+            android:padding="20dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Author: NUR ATHIRAH BINTI AZMI"
+                android:textColor="@color/forest_900"
+                android:textSize="18sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Matric No: 2023406866"
+                android:textColor="@color/forest_900"
+                android:textSize="18sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Course: ICT602"
+                android:textColor="@color/forest_900"
+                android:textSize="18sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="Copyright © 2025"
+                android:textColor="@color/forest_700"
+                android:textSize="16sp" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/txtGitHub"
+            android:text="GitHub Repository"
+            android:textSize="18sp"
+            android:textColor="@color/forest_900"
+            android:padding="12dp"
+            android:layout_marginTop="24dp"
+            android:background="@drawable/panel_rounded"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+</ScrollView>

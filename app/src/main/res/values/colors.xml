@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Core -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Forest green palette -->
+    <color name="forest_900">#0B3D2E</color>
+    <color name="forest_800">#0F5B43</color>
+    <color name="forest_700">#14754D</color>
+    <color name="forest_600">#1A9A63</color>
+    <color name="forest_500">#3FCF9B</color>
+
+    <!-- Accents / backgrounds -->
+    <color name="mint_200">#DFF7E9</color>
+    <color name="ivory">#FFFDF7</color>
+
+    <!-- Names referenced by your layouts (kept to avoid layout edits) -->
+    <color name="light_blue">#EAF6EE</color>
+    <color name="button_blue">#14754D</color>
+    <color name="text_blue">#0B3D2E</color>
+    <color name="text_dark">#213322</color>
+</resources>
