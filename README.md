@@ -57,7 +57,7 @@ Includes:
 ## 🎨 **UI & Design**
 
 * Designed with XML layouts
-* Forest-green theme (custom colors)
+* Forest-green theme
 * Custom rounded panels and gradient backgrounds
 * Toolbar with Material-style appearance
 * Simple navigation menu with:
@@ -81,12 +81,12 @@ Includes:
 
 ```
 app/
- ├── java/                (Activities & calculation logic)
+ ├── java/                
  ├── res/
- │    ├── layout/         (XML screens)
- │    ├── drawable/       (panels, gradients, buttons)
- │    ├── menu/           (navigation menu)
- │    ├── values/         (colors & styles)
+ │    ├── layout/         
+ │    ├── drawable/       
+ │    ├── menu/           
+ │    ├── values/         
  └── AndroidManifest.xml
 ```
 
@@ -128,7 +128,6 @@ The APK file is included in:
 
 ## 🔗 **GitHub Repository Link**
 
-*(Replace with your real GitHub link)*
 [(https://github.com/AthirahAzmi77/DividendCalculatorApp.git)]
 
 ---
