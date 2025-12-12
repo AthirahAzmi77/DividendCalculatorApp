@@ -98,16 +98,19 @@ app/
 
 ### 🏠 Home Page
 
-![Home Page](Screenshot 2025-12-12 010432.png)
+![Home Page](screenshot/home.png)
 
 ### ℹ️ About Page
 
-![About Page]("C:\Users\Nur\AndroidStudioProjects\IndividualAssignmentZakat\about.png")
+![About Page](screenshot/about.png)
 
 ### 🧮 Calculation Example
 
-![Calculation Example]("C:\Users\Nur\AndroidStudioProjects\IndividualAssignmentZakat\calculationexample.png")
+![Calculation Example](screenshot/calculationexample.png)
 
+### 🧭 Taskbar
+
+![Calculation Example](screenshot/taskbar.png)
 ---
 
 ## 📦 **APK File**
