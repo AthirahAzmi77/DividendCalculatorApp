@@ -108,7 +108,12 @@ app/
 
 ### 🧭 Taskbar
 
-![Calculation Example](screenshot/taskbar.png)
+![Taskbar](screenshot/taskbar.png)
+
+### 🔗 GitHub Repository Page
+
+![Github Repository](screenshot\Screenshot 2025-12-12 122647.png)
+
 ---
 
 ## 📦 **APK File**
