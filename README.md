@@ -116,7 +116,7 @@ app/
 The APK file is included in:
 
 ```
-C:\Users\Nur\AndroidStudioProjects\IndividualAssignmentZakat\app\build\outputs\apk\debug
+/apk/app-debug.apk
 ```
 
 ---
