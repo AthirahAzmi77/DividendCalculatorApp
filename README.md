@@ -98,15 +98,15 @@ app/
 
 ### 🏠 Home Page
 
-![Home Page](screenshots/home_page_placeholder.png)
+![Home Page]("C:\Users\Nur\AndroidStudioProjects\IndividualAssignmentZakat\home.png")
 
 ### ℹ️ About Page
 
-![About Page](screenshots/about_page_placeholder.png)
+![About Page]("C:\Users\Nur\AndroidStudioProjects\IndividualAssignmentZakat\about.png")
 
 ### 🧮 Calculation Example
 
-![Calculation Example](screenshots/calculation_example_placeholder.png)
+![Calculation Example]("C:\Users\Nur\AndroidStudioProjects\IndividualAssignmentZakat\calculationexample.png")
 
 ---
 
@@ -123,7 +123,7 @@ C:\Users\Nur\AndroidStudioProjects\IndividualAssignmentZakat\app\build\outputs\a
 ## 🔗 **GitHub Repository Link**
 
 *(Replace with your real GitHub link)*
-[[https://github.com/your-username/your-repo-name](https://github.com/your-username/your-repo-name](https://github.com/AthirahAzmi77/DividendCalculatorApp.git))
+[(https://github.com/AthirahAzmi77/DividendCalculatorApp.git)]
 
 ---
 
