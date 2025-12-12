@@ -115,7 +115,7 @@ app/
 The APK file is included in:
 
 ```
-/apk/DividendCalculator.apk
+C:\Users\Nur\AndroidStudioProjects\IndividualAssignmentZakat\app\build\outputs\apk\debug
 ```
 
 ---
@@ -123,7 +123,7 @@ The APK file is included in:
 ## 🔗 **GitHub Repository Link**
 
 *(Replace with your real GitHub link)*
-[https://github.com/your-username/your-repo-name](https://github.com/your-username/your-repo-name)
+[[https://github.com/your-username/your-repo-name](https://github.com/your-username/your-repo-name](https://github.com/AthirahAzmi77/DividendCalculatorApp.git))
 
 ---
 
