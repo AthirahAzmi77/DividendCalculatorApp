@@ -112,7 +112,7 @@ app/
 
 ### 🔗 GitHub Repository Page
 
-![Github Repository](screenshot\Screenshot 2025-12-12 122647.png)
+![Github Repository](https://github.com/AthirahAzmi77/DividendCalculatorApp/blob/master/github%20repository.png)
 
 ---
 
