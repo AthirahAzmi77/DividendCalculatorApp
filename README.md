@@ -98,7 +98,7 @@ app/
 
 ### 🏠 Home Page
 
-![Home Page]("C:\Users\Nur\AndroidStudioProjects\IndividualAssignmentZakat\home.png")
+![Home Page](Screenshot 2025-12-12 010432.png)
 
 ### ℹ️ About Page
 
