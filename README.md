@@ -94,8 +94,6 @@ app/
 
 ## 📸 **Screenshots**
 
-*(Replace placeholder images with real screenshots)*
-
 ### 🏠 Home Page
 
 ![Home Page](screenshot/home.png)
